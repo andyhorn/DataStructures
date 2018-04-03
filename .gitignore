@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DataStructures_AndrewHorn/.vs/DataStructures/v15
+/DataStructures_AndrewHorn/Freecell/x64/Debug/Freecell.tlog
+/DataStructures_AndrewHorn/x64/Debug
+/DataStructures_AndrewHorn/DataStructures/x64/Debug/DataStructures.tlog
+/DataStructures_AndrewHorn/Main/x64/Debug/Main.tlog
+/DataStructures_AndrewHorn/Minesweeper/x64/Debug/Minesweeper.tlog
+*.tlog
+*.obj
+*.pdb
+*.idb
+*.pch
+*.log
+*.enc
