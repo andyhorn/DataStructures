@@ -4,11 +4,16 @@
 
 /.vs
 /DataStructures_AndrewHorn/.vs/DataStructures/v15
-/DataStructures_AndrewHorn/Freecell/x64/Debug/Freecell.tlog
-/DataStructures_AndrewHorn/x64/Debug
-/DataStructures_AndrewHorn/DataStructures/x64/Debug/DataStructures.tlog
-/DataStructures_AndrewHorn/Main/x64/Debug/Main.tlog
-/DataStructures_AndrewHorn/Minesweeper/x64/Debug/Minesweeper.tlog
+/DataStructures_AndrewHorn/Freecell/x64
+/DataStructures_AndrewHorn/Freecell/Debug
+/DataStructures_AndrewHorn/Freecell/Release
+/DataStructures_AndrewHorn/Debug
+/DataStructures_AndrewHorn/Main
+/DataStructures_AndrewHorn/Release
+/DataStructures_AndrewHorn/DataStructures/x64
+/DataStructures_AndrewHorn/DataStructures/Debug
+/DataStructures_AndrewHorn/DataStructures/Release
+/DataStructures_AndrewHorn/Minesweeper/x64
 *.tlog
 *.obj
 *.pdb
